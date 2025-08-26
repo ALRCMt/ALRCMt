@@ -1,6 +1,12 @@
-
-| <a href="https://raw.githubusercontent.com/ALRCMt/ALRCMt/refs/heads/main/images/wxlll.JPG"><img width="50" height="50" src="./images/wechatpay.png"></a>  | 我，Mt 打钱 懂？ |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+<table>
+<tr>
+<th colspan=2>为什么不给我打钱😡😡😡?!</th>
+</tr>
+<tr>
+<th><a href="https://raw.githubusercontent.com/ALRCMt/ALRCMt/refs/heads/main/images/wxlll.JPG"><img width="50" height="50" src="./images/wechatpay.png"></a></th>
+<th>我，Mt 打钱 懂？</th>
+</tr>
+</table>
 
 [![QQ](https://img.shields.io/badge/QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
 [![邮箱](https://img.shields.io/badge/邮箱-b122330417@163.com-blue.svg)](mailto:b122330417@163.com)
