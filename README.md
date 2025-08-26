@@ -1,5 +1,5 @@
-| <a href="./images/wxlll.JPG"><img width="45" height="45" src="https://raw.githubusercontent.com/ALRCMt/ALRCMt/refs/heads/main/images/wxlll.JPG"></a>  | 我，Mt 打钱 懂？ |
-| ------------------------------------------------------------------------------------------- | --------------- |
+| <a href="https://raw.githubusercontent.com/ALRCMt/ALRCMt/refs/heads/main/images/wxlll.JPG"><img width="45" height="45" src="./images/wechatpay.png"></a>  | 我，Mt 打钱 懂？ |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 
 [![QQ](https://img.shields.io/badge/QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
 [![邮箱](https://img.shields.io/badge/邮箱-b122330417@163.com-blue.svg)](mailto:b122330417@163.com)
