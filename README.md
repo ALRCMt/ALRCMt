@@ -3,7 +3,7 @@
 <th colspan=2>疯狂星期四，谁请我吃？</th>
 </tr>
 <tr>
-<th><a href="https://raw.githubusercontent.com/ALRCMt/ALRCMt/refs/heads/main/images/wxlll.JPG"><img width="50" height="50" src="./images/wechatpay.png"></a></th>
+<th><a href="https://ht.tyyz2415.top/images/wxlll.jpg"><img width="50" height="50" src="./images/wechatpay.png"></a></th>
 <th>我，Mt 打钱 懂？</th>
 </tr>
 </table>
