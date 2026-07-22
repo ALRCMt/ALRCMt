@@ -10,10 +10,9 @@
 
 个人网站：[https://ht.tyyz2415.top/](https://ht.tyyz2415.top/)
 
-
-[![邮箱b122330417@163.com](https://img.shields.io/badge/邮箱-b122330417@163.com-blue.svg)](mailto:b122330417@163.com)
-[![Bilibili](https://img.shields.io/badge/Bilibili-ALRC_Mt-pink.svg)](https://space.bilibili.com/483215864?spm_id_from=333.1007.0.0)
-  
+[![QQ](https://img.shields.io/badge/QQ-ALRCMt-white.svg)](https://qm.qq.com/q/4uVkK9nRPW?personal_qrcode_source=3)
+[![Bilibili](https://img.shields.io/badge/Bilibili-ALRC_Mt-pink.svg)](https://space.bilibili.com/483215864?spm_id_from=333.1007.0.0)  
+邮箱：<alrcmt86@outlook.com>
 
 一个电子爱好者，对硬件与网络工程感兴趣 :)   
 平时玩玩Linux与软路由，尝试搭建一套个人服务器系统  
