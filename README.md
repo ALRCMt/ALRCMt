@@ -1,15 +1,3 @@
-<head>
-<script>
-  (function() {
-    const days = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
-    const el = document.getElementById('weekDayText');
-    if (el) {
-      el.textContent = '疯狂' + days[new Date().getDay()];
-    }
-  })();
-</script>
-</head>
-
 <table>
 <tr>
 <th colspan=2><span id="weekDayText">疯狂星期四</span>，谁请我吃？</th>
